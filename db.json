@@ -1,0 +1,18 @@
+{
+    "layanan": {
+        "responseCode": "RSx700003",
+        "responseMessage": "Ferizy Service - RsRsServiceRf Sukses",
+        "responseReferenceNo": "60227bd25442470fac6f26fba7fe1fa7",
+        "layanan": {
+            "id": "layanan",
+            "name": "Layanan",
+            "imgUrl": "http://www.asdp.com/1111",
+            "data": [
+                {
+                    "id": "reguler",
+                    "name": "Reguler"
+                }
+            ]
+        }
+    }
+}
